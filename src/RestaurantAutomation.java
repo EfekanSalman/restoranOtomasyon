@@ -578,11 +578,11 @@ public class RestaurantAutomation {
         System.out.println("       \n\t\t\t\t\t\t\t<<<Hakkımızda>>>");
         System.out.println("<<<---İSTANBUL'DAKİ KALİTELİ YEMEKLERİ EN İYİ LEZZETLERLERLE SİZE SUNUYORUZ--->>>");
         System.out.println("    ---Şubelerimiz---                 ---İletişim---");
-        System.out.println("   İstanbul/Küçükçekmece-----------> +90 (554)-302-2794");
-        System.out.println("   İstanbul/Beşiktaş---------------> +90 (553)-826-5358");
-        System.out.println("   İstanbul/Sultangazi-------------> +90 (541)-843-3412");
-        System.out.println("   İstanbul/Başakşehir-------------> +90 (538)-304-1368");
-        System.out.println("   İstanbul/Tuzla------------------> +90 (533)-732-3149");
+        System.out.println("   İstanbul/Küçükçekmece-----------> +90 (123)-456-789");
+        System.out.println("   İstanbul/Beşiktaş---------------> +90 (123)-456-789");
+        System.out.println("   İstanbul/Sultangazi-------------> +90 (123)-456-789");
+        System.out.println("   İstanbul/Başakşehir-------------> +90 (123)-456-789");
+        System.out.println("   İstanbul/Tuzla------------------> +90 (123)-456-789);
 
     }
 
